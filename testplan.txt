@@ -1,0 +1,8 @@
+John Abrams
+Chris Zachariah
+Asst1: ++malloc
+3/10/2019
+
+Testplan:
+
+The two workloads we included were a combination of suggestions within the assignment specification; we included tests that dealt with various orderings of mallocing/freeing, excessive memory requests, memory saturation, erroneous free requests, and redundant calls.
